@@ -5,4 +5,14 @@ As COVID-19 rapidly spreads across the US, it is essential to visualize the avai
 # Data
 Looking at data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), [New York Times](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv), and [US County](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json), we can create an animated choropleth map that represents the number of confirmed cases per 1,000 residents in US counties.
 
+INSERT CHOROPLETH MAP
+
+Zooming in on the area with one of the highest Cumulative Reported Cases (I’m from Somerset, New Jersey).
+
+
+It makes sense that the number of cases is so high in the New York and New Jersey region because New York City is connected with many airports and New Jersey is the most densely-populated state in the nation. 
+
+# Summary and Implications
+Total cumulative reported cases by the end of April is the highest (yellowish orange color) in counties near major cities (Ie. Atlanta, Georgia and New York City, New York)
+Densely populated counties have to enforce stricter social distancing policies. 
 
