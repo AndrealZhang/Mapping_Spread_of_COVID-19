@@ -13,6 +13,6 @@ Zooming in on the area with one of the highest Cumulative Reported Cases (I’m 
 It makes sense that the number of cases is so high in the New York and New Jersey region because New York City is connected with many airports and New Jersey is the most densely-populated state in the nation. 
 
 # Summary and Implications
-Total cumulative reported cases by the end of April is the highest (yellowish orange color) in counties near major cities (Ie. Atlanta, Georgia and New York City, New York)
-Densely populated counties have to enforce stricter social distancing policies. 
+1. Total cumulative reported cases by the end of April is the highest (yellowish orange color) in counties near major cities (Ie. Atlanta, Georgia and New York City, New York)
+2. Densely populated counties have to enforce stricter social distancing policies. 
 
