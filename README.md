@@ -9,6 +9,8 @@ Looking at data from [Johns Hopkins University](https://github.com/CSSEGISandDat
 
 Zooming in on the area with one of the highest Cumulative Reported Cases (I’m from Somerset, New Jersey).
 
+![alt_link](https://github.com/AndrealZhang/Mapping_Spread_of_COVID-19/blob/master/zoomed%20in%20NJ%20and%20NY.png)
+
 
 It makes sense that the number of cases is so high in the New York and New Jersey region because New York City is connected with many airports and New Jersey is the most densely-populated state in the nation. 
 
