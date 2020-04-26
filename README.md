@@ -5,7 +5,7 @@ As COVID-19 rapidly spreads across the US, it is essential to visualize the avai
 # Data
 Looking at data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), [New York Times](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv), and [US County](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json), we can create an animated choropleth map that represents the number of confirmed cases per 1,000 residents in US counties.
 
-INSERT CHOROPLETH MAP
+![alt_link](https://github.com/AndrealZhang/Mapping_Spread_of_COVID-19/blob/master/Python%20Assignment%202/choropleth.gif)
 
 Zooming in on the area with one of the highest Cumulative Reported Cases (I’m from Somerset, New Jersey).
 
